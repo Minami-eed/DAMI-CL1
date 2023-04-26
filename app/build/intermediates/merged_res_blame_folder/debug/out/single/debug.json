@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "com.bembos.bembosapp-merged_res-29:/drawable_logo.png.flat",
+        "source": "com.bembos.bembosapp-main-31:/drawable/logo.png"
+    },
+    {
+        "merged": "com.bembos.bembosapp-merged_res-29:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.bembos.bembosapp-main-31:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.bembos.bembosapp-merged_res-29:/xml_backup_rules.xml.flat",
+        "source": "com.bembos.bembosapp-main-31:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.bembos.bembosapp-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "com.bembos.bembosapp-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.bembos.bembosapp-merged_res-29:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.bembos.bembosapp-main-31:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.bembos.bembosapp-merged_res-29:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.bembos.bembosapp-main-31:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.bembos.bembosapp-merged_res-29:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.bembos.bembosapp-main-31:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.bembos.bembosapp-merged_res-29:/drawable_corona.jpg.flat",
+        "source": "com.bembos.bembosapp-main-31:/drawable/corona.jpg"
+    },
+    {
+        "merged": "com.bembos.bembosapp-merged_res-29:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.bembos.bembosapp-main-31:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.bembos.bembosapp-merged_res-29:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.bembos.bembosapp-main-31:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.bembos.bembosapp-merged_res-29:/drawable_pesada.jpg.flat",
+        "source": "com.bembos.bembosapp-main-31:/drawable/pesada.jpg"
+    },
+    {
+        "merged": "com.bembos.bembosapp-merged_res-29:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.bembos.bembosapp-main-31:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.bembos.bembosapp-merged_res-29:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.bembos.bembosapp-main-31:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.bembos.bembosapp-merged_res-29:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.bembos.bembosapp-main-31:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.bembos.bembosapp-merged_res-29:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.bembos.bembosapp-main-31:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.bembos.bembosapp-merged_res-29:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.bembos.bembosapp-main-31:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.bembos.bembosapp-merged_res-29:/layout_item_hamburguesa.xml.flat",
+        "source": "com.bembos.bembosapp-main-31:/layout/item_hamburguesa.xml"
+    },
+    {
+        "merged": "com.bembos.bembosapp-merged_res-29:/layout_activity_login.xml.flat",
+        "source": "com.bembos.bembosapp-main-31:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.bembos.bembosapp-merged_res-29:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.bembos.bembosapp-main-31:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.bembos.bembosapp-merged_res-29:/mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "com.bembos.bembosapp-main-31:/mipmap-anydpi-v33/ic_launcher.xml"
+    },
+    {
+        "merged": "com.bembos.bembosapp-merged_res-29:/xml_data_extraction_rules.xml.flat",
+        "source": "com.bembos.bembosapp-main-31:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.bembos.bembosapp-merged_res-29:/drawable_clasica_parrilla.jpg.flat",
+        "source": "com.bembos.bembosapp-main-31:/drawable/clasica_parrilla.jpg"
+    },
+    {
+        "merged": "com.bembos.bembosapp-merged_res-29:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.bembos.bembosapp-main-31:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.bembos.bembosapp-merged_res-29:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.bembos.bembosapp-main-31:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.bembos.bembosapp-merged_res-29:/drawable_churrita.jpg.flat",
+        "source": "com.bembos.bembosapp-main-31:/drawable/churrita.jpg"
+    }
+]
