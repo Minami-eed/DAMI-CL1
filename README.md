@@ -4,7 +4,6 @@
 | ------------------------| 
 |Tenga presente que el **LOGRO, ES QUE USTED** resuelva programas usando el IDE de Android Studio haciendo uso de controles básicos logrando de esta manera satisfacer la necesidad de los clientes. | 
 
----
 # Bembos App v5.0.0 (actualización)
 La franquicia de comida rápida Bembos, parte del Grupo NGR Perú, en su visión mejorar sus servicios y acercarlos a sus selectos clientes, le solicita:
 ---
